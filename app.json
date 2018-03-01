@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AutoTags",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.purvil12c.autotags"
+    },
+    "android": {
+      "package": "com.purvil12c.autotags"
+    }
+  },
+  "name": "autotags",
+  "displayName": "AutoTags"
+}

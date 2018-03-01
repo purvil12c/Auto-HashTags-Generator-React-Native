@@ -1,0 +1,7 @@
+#Thu Mar 01 11:23:23 IST 2018
+base.0=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c448267e3c85fd01ad7ea083d0da159a95824581
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df6543818e32e2a351dce9c1824d8e5aa7c2c91a/classes.dex
+base.1=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df6543818e32e2a351dce9c1824d8e5aa7c2c91a
+file.0=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c448267e3c85fd01ad7ea083d0da159a95824581/classes.dex

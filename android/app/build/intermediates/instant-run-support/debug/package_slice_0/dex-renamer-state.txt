@@ -1,0 +1,4 @@
+#Thu Mar 01 11:12:52 IST 2018
+base.0=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

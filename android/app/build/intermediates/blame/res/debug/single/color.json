@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/purvil12c/Desktop/DietChek/reactnative-automatic-tags/autotags/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/purvil12c/.android/build-cache/d2ef5ff31cd11075018610455032b9e7037a8170/output/res/color/switch_thumb_material_dark.xml"
+    }
+]
